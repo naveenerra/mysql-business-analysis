@@ -109,6 +109,11 @@ This project addresses practical business questions such as:
 - Foreign keys
 - UNIQUE constraints
 - CHECK constraints
+- Views
+- Stored procedures
+- Triggers
+- Functions
+
 
 ## 💡 Key Learning Outcomes
 
@@ -145,23 +150,17 @@ The analysis uses the ClassicModels sample database, which contains business dat
 
 - Customers
 - Employees
-- Facility
 - Offices
 - Products
 - Product lines
 - Orders
 - Order details
 - Payments
-- Project
+
+Additional custom tables were created separately to demonstrate MySQL database development concepts such as constraints, self joins, and triggers.
 
 ## 👤 Author
 
 Naveen
 
 Data Analyst | SQL | Excel | Power BI | Tableau
-
-
-- Views
-- Stored procedures
-- Triggers
-- Functions
