@@ -125,6 +125,20 @@ Through this project, I practiced:
 - Creating triggers for data validation
 - Structuring SQL scripts into reusable analytical modules
 
+## 📷 Sample Results
+
+### Top Countries by Order Volume
+
+![Top Countries by Order Volume](top_countries_orders.png)
+
+### Customer Order Frequency Ranking
+
+![Customer Order Frequency Ranking](customer_order_ranking.png)
+
+### Product Category Sales
+
+![Product Category Sales](product_category_sales.png)
+
 ## 🗂️ Dataset
 
 The analysis uses the ClassicModels sample database, which contains business data related to:
