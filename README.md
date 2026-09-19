@@ -131,12 +131,14 @@ The analysis uses the ClassicModels sample database, which contains business dat
 
 - Customers
 - Employees
+- Facility
 - Offices
 - Products
 - Product lines
 - Orders
 - Order details
 - Payments
+- Project
 
 ## 👤 Author
 
@@ -148,3 +150,4 @@ Data Analyst | SQL | Excel | Power BI | Tableau
 - Views
 - Stored procedures
 - Triggers
+- Functions
