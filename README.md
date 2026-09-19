@@ -134,15 +134,15 @@ Through this project, I practiced:
 
 ### Top Countries by Order Volume
 
-![Top Countries by Order Volume](top_countries_orders.png)
+![Top Countries by Order Volume](screenshots/top_countries_orders.png)
 
 ### Customer Order Frequency Ranking
 
-![Customer Order Frequency Ranking](customer_order_ranking.png)
+![Customer Order Frequency Ranking](screenshots/customer_order_ranking.png)
 
 ### Product Category Sales
 
-![Product Category Sales](product_category_sales.png)
+![Product Category Sales](screenshots/product_category_sales.png)
 
 ## 🗂️ Dataset
 
